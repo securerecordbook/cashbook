@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1087711853435",
+    "project_id": "cash-book-de772",
+    "storage_bucket": "cash-book-de772.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1087711853435:android:c5b96a6f3311f849f75bde",
+        "android_client_info": {
+          "package_name": "com.securerecordbook.cashbook"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1087711853435-891e6ku8ir6c0k99inhm2ep55ipo65q1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBV7DsMjklnYEIDpBBnh24NSeoGekZu50A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1087711853435-891e6ku8ir6c0k99inhm2ep55ipo65q1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
